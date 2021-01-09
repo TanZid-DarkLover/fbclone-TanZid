@@ -77,7 +77,7 @@ logo = """ ▄︻┻═┳一 W҈e҈l҈c҈o҈m҈e҈ T҈o҈ M҈y҈ T҈o҈o҈l҈
 \033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;92mTanzid Ahamed
 \033[1;96mTwitter \033[1;93m: \033[1: https://twitter.com/TanzidAhamed8/
-\033[1;96mFacebook \033[1;93m: \033[1: https://facebook.com/Tanzid.Ahamed.707/
+\033[1;96mFacebook \033[1;93m:\033[1: https://facebook.com/Tanzid.Ahamed.707/
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TanZid-darkLover/
 \033[1;91m======================================="""
 
@@ -117,7 +117,7 @@ print  """\033[1;91m
                    WhatsApp : 01627151977
 \033[1;96mAuthor  \033[1;93m: \033[1;92mTanzid Ahamed
 \033[1;96mTwitter \033[1;93m: \033[1;92mhttps://twitter.com/TanzidAhamed8/
-\033[1;96mFacebook \033[1;93m: \033[1;92mhttps://facebook.com/Tanzid.Ahamed.707/
+\033[1;96mFacebook \033[1;93m:\033[1;92mhttps://facebook.com/Tanzid.Ahamed.707/
 \033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/TanZid-DarkLover/
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
